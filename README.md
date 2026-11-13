@@ -1,9 +1,8 @@
 # 🌐 Projet Réseau d'Entreprise – Segmentation VLAN, Routage & Services (Cisco Packet Tracer)
 
 > Conception et configuration d'un réseau d'entreprise segmenté en VLAN, avec routage inter-VLAN, serveurs DNS/DHCP et accès à Internet simulé.
-> Projet réalisé en formation **Les Codeuses** – [ajouter la date / la promo].
 
-![Topologie du réseau](./images/topologie.png)
+![Topologie du réseau](./images/)
 
 ---
 
@@ -191,10 +190,3 @@ ip route 0.0.0.0 0.0.0.0 94.100.0.2
 - Ajouter la redondance (EtherChannel, deuxième routeur / HSRP)
 - Passer à un routage dynamique (OSPF)
 - Configurer SSH pour l'administration à distance
-
----
-
-## 👩‍💻 Auteure
-
-**[Ton prénom / nom]** – [Formation Les Codeuses – Administration réseau / Développement web]
-🔗 [LinkedIn](https://linkedin.com/in/...) · 📧 [email]
